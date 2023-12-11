@@ -1,2 +1,2 @@
 # Repo-Demo
-This is my first repository for demo purpose.
+This is my first repository for demo purpose only.
